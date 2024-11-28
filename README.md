@@ -57,4 +57,3 @@ Please ensure your code follows the existing coding style and includes appropria
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 Thank you for using the Cloud Image Gallery!
-``` 
